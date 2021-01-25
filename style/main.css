@@ -1,0 +1,110 @@
+body {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+/***************HEADER*********/
+
+#header {
+	line-height: 3px;
+	background-color: #0ace99;
+	margin: 0px auto;
+	padding: 5px;
+	text-align: center;
+	color: blue;
+	border-bottom: 2px solid blue;
+}
+
+
+/*******************DIV NAV*********/
+
+#nav li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+#nav li:hover {
+	background-color: white;
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav {
+	background-color: #0ace99;
+	margin-top: 0;
+	margin: 0px auto;
+	padding: 3px;
+	text-align: center;
+	color: blue;
+	word-spacing: 70px;
+	border-bottom: 2px solid blue;
+}
+
+#nav ul {
+	padding-left: 0px;
+}
+
+/*************DIV COMUNICAZIONE*****/
+
+#comu {
+	background-color: white;
+	padding: 30px;
+	border: 5px blue solid;
+	width: 400px;
+	margin: 0 auto;
+}
+
+
+#comu a{
+	text-decoration: none;
+	color: white;
+	background-color: #0ace99;
+	padding: 10px;
+	border: 3px blue solid;
+	margin: 0 auto;
+}
+
+/*********************DIV MKTG*****/
+
+#mktg {
+	background-color: white;
+	padding: 30px;
+	border: 5px blue solid;
+	width: 400px;
+	margin: 0 auto;
+}
+
+#mktg a{
+	text-decoration: none;
+	color: white;
+	background-color: #0ace99;
+	padding: 10px;
+	border: 3px blue solid;
+	margin: 0 auto;
+}
+
+
+
+
+h4 {
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+
+/*******************FOOTER*******/
+
+footer {
+	text-align: center;
+}
+
+p a {
+	
+	padding: 0px;
+	border: 0px;
+}
